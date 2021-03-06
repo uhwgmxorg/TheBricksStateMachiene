@@ -1,5 +1,5 @@
 # TheBricksStateMachiene
-is the implementation of a state machine for the game [Cherry Jump as web game](http://cherryjump.de) and on [GitHub](https://github.com/MaeveCake/CherryJump) from Maeve Butler and @dinchensart (Twitter).
+is the implementation of a state machine for the game [Cherry Jump as web game](http://cherryjump.de) and on [GitHub](https://github.com/MaeveCake/CherryJump) from Maeve Butler and [@dinchensart](https://twitter.com/dinchensart).
 
 ![img](https://github.com/uhwgmxorg/TheBricksStateMachiene/blob/master/Doc/77_1.gif)
 
